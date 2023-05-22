@@ -33,7 +33,7 @@ To install Modus-Shell, follow these steps:
 ## 1. Sample CLI 
 ### [1.1 Create CLI for check the Temperature from the board](https://github.com/Advance-Innovation-Centre-AIC/BDH_Shell_over_Serial_Terminalminal-/wiki)
 
-
+## [2. Advance CLI ](https://github.com/Advance-Innovation-Centre-AIC/BDH_Shell_over_Serial_Terminal/wiki/****2.-Advance-CLI)
 
 
 
