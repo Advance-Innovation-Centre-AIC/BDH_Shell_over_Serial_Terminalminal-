@@ -1,4 +1,6 @@
 # BDHShell (CLI over Serial Terminal)
+[![Release version](https://img.shields.io/github/v/release/atom/atom.svg)](https://github.com/Advance-Innovation-Centre-AIC/BDH_Shell_over_Serial_Terminal)
+
 
 # Requirments
 - [ModusToolbox™ software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/?redirId=178597) v3.0 or later (tested with v3.0)
