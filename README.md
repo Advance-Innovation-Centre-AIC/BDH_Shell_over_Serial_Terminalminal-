@@ -1,5 +1,5 @@
 # BDHShell (CLI over Serial Terminal)
-[![Release version](https://img.shields.io/github/v/release/atom/atom.svg)](https://github.com/Advance-Innovation-Centre-AIC/BDH_Shell_over_Serial_Terminal)
+[![Release version](https://img.shields.io/badge/version-V1.0.0-orange.svg)](https://github.com/Advance-Innovation-Centre-AIC/BDH_Shell_over_Serial_Terminal)
 
 
 # Requirments
